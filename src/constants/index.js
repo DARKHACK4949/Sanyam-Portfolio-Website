@@ -61,7 +61,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Tailwind CSS", "Vite"],
-    link: "https://example.com/portfolio"  
+    link: "https://portfolio-sanyam.netlify.app/"  
   },
   {
     title: "Project Management Tool",
