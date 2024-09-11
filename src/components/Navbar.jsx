@@ -15,7 +15,7 @@ const Navbar = () => {
           <FaGithub />
         </a>
         <a
-          href="https://drive.google.com/file/d/1f_1_SbjJbwq8otGpgmEk0uGh4uPNpP20/view?usp=sharing"
+          href="https://drive.google.com/file/d/1ED2fa5lXYDG178GTtUNUF6H6FEH4d6Vc/view?usp=sharing"
           target="_blank"
           className="flex items-center"
         >
