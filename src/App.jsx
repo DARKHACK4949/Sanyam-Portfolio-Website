@@ -19,11 +19,11 @@ const App = () => {
       <Navbar />
       <Hero />
       <About />
-      <Technologies />
       <Softwares />
+      <Technologies />
       <Experience />
-      <Projects />
       <Design />
+      <Projects />
       <Contact/>
       </div>
     </div>

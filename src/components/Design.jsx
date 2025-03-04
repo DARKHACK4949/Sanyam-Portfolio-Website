@@ -2,9 +2,9 @@ import { motion } from "framer-motion";
 
 const designs = [
   {
-    image: "./images/ui-1.png", 
-    title: "E-Bike Homepage",
-    link: "https://www.figma.com/proto/bNlZXZglgDoIePwHkXeso0/E-Bike-Homepage?page-id=0%3A1&node-id=1-3&node-type=canvas&viewport=499%2C339%2C0.46&t=UONQBN6dHJS4FJx1-1&scaling=scale-down&content-scaling=fixed",
+    image: "./images/ui-10.png", 
+    title: "Local Link (Case Study)",
+    link: "https://www.figma.com/proto/InWC3pvUaDsLnAycsAdLKA/Local-Link-(Case-Study)?page-id=0%3A1&node-id=4-2&viewport=49%2C404%2C0.11&t=f4Oc19xMQcmzP2qZ-1&scaling=scale-down&content-scaling=fixed",
   },
   {
     image: "./images/ui-2.png", 
@@ -12,9 +12,9 @@ const designs = [
     link: "https://www.figma.com/proto/tEgIdHoWnFHDHkhJqWWTVn/Responsive-Landing-Page-Design-%7C-Website-Home-Page-Design-%7C-Agency-Website-UI-Design?page-id=0%3A1&node-id=5-573&node-type=canvas&viewport=394%2C1002%2C0.38&t=WjphnViuePXoCxUZ-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=5%3A573",
   },
   {
-    image: "./images/ui-3.png", 
-    title: "Gaming Console",
-    link: "https://www.figma.com/proto/788MAFB7WPQbb17obDR4o1/Gaming-Console?page-id=0%3A1&node-id=1-2&node-type=canvas&viewport=588%2C206%2C0.52&t=Rc2jhQmWtdjjyIFZ-1&scaling=scale-down&content-scaling=fixed",
+    image: "./images/ui-8.png", 
+    title: "E-Commerce",
+    link: "https://www.figma.com/proto/6lubJAcQZBfRNLcLhPu2ro/Ecommerce-Homepage?page-id=0%3A1&node-id=1-388&node-type=canvas&viewport=540%2C1973%2C0.67&t=33raNuS5wfrj3V0I-1&scaling=min-zoom&content-scaling=fixed",
   },
   {
     image: "./images/ui-4.png", 
@@ -32,14 +32,14 @@ const designs = [
     link: "https://www.figma.com/proto/2gZCn1b2koLaptACJ4KAY9/Fruity-3D-corousel?page-id=0%3A1&node-id=1-372&node-type=canvas&viewport=526%2C358%2C0.22&t=kwcl1LMdcnxK1a8O-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A372",
   },
   {
-    image: "./images/ui-7.png", 
-    title: "Restaurant Menu",
-    link: "https://www.figma.com/proto/g8Tuz9SUcWRQBsPLnN8jX7/Restaurant-Menu--till-details?page-id=0%3A1&node-id=1-636&node-type=canvas&viewport=526%2C370%2C0.31&t=c4Ypq5IwIuHhnVm3-1&scaling=min-zoom&content-scaling=fixed",
+    image: "./images/ui-3.png", 
+    title: "Gaming Console",
+    link: "https://www.figma.com/proto/788MAFB7WPQbb17obDR4o1/Gaming-Console?page-id=0%3A1&node-id=1-2&node-type=canvas&viewport=588%2C206%2C0.52&t=Rc2jhQmWtdjjyIFZ-1&scaling=scale-down&content-scaling=fixed",
   },
   {
-    image: "./images/ui-8.png", 
-    title: "E-Commerce",
-    link: "https://www.figma.com/proto/6lubJAcQZBfRNLcLhPu2ro/Ecommerce-Homepage?page-id=0%3A1&node-id=1-388&node-type=canvas&viewport=540%2C1973%2C0.67&t=33raNuS5wfrj3V0I-1&scaling=min-zoom&content-scaling=fixed",
+    image: "./images/ui-1.png", 
+    title: "E-Bike Homepage",
+    link: "https://www.figma.com/proto/bNlZXZglgDoIePwHkXeso0/E-Bike-Homepage?page-id=0%3A1&node-id=1-3&node-type=canvas&viewport=499%2C339%2C0.46&t=UONQBN6dHJS4FJx1-1&scaling=scale-down&content-scaling=fixed",
   },
 ];
 
@@ -52,7 +52,7 @@ const Design = () => {
         transition={{ duration: 1.5 }}
         className="my-20 text-center text-4xl"
       >
-        UI Designs
+        UI/UX Designs
       </motion.h2>
       
       <motion.div

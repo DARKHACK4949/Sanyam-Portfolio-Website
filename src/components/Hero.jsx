@@ -19,7 +19,7 @@ const Hero = () => {
             variants={container(0)}
             initial="hidden"
             animate="visible"
-            className="pb-16 text-6xl font-thin tracking-tight lg:mt-16 lg:text-7xl">
+            className="pb-9 text-6xl font-thin tracking-tight lg:mt-16 lg:text-7xl">
               Sanyam Sharma 
               </motion.h1>
             <motion.span
@@ -27,7 +27,7 @@ const Hero = () => {
              initial="hidden"
              animate="visible"
              className="mt-4 bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500
-             bg-clip-text text-4xl tracking-tight text-transparent">Product Designer & Front-End Developer</motion.span>
+             bg-clip-text text-4xl tracking-tight text-transparent">UI/UX Designer</motion.span>
              <motion.p 
               variants={container(1)}
               initial="hidden"
