@@ -6,11 +6,11 @@ const designs = [
     title: "Local Link (Case Study)",
     link: "https://www.figma.com/proto/InWC3pvUaDsLnAycsAdLKA/Local-Link-(Case-Study)?page-id=0%3A1&node-id=4-2&viewport=49%2C404%2C0.11&t=f4Oc19xMQcmzP2qZ-1&scaling=scale-down&content-scaling=fixed",
   },
-  {
-    image: "./images/ui-11.png", 
-    title: "Wallsy (Wallpaper App)",
-    link: "https://www.figma.com/proto/07w4NsgZlW6vICp6XYrKn7/Wallsy-(Wallpaper-Application)?page-id=0%3A1&node-id=2-2&p=f&viewport=244%2C363%2C0.08&t=5W0WgdFGHRPHsbpN-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2%3A2",
-  },
+  // {
+  //   image: "./images/ui-11.png", 
+  //   title: "Wallsy (Wallpaper App)",
+  //   link: "https://www.figma.com/proto/07w4NsgZlW6vICp6XYrKn7/Wallsy-(Wallpaper-Application)?page-id=0%3A1&node-id=2-2&p=f&viewport=244%2C363%2C0.08&t=5W0WgdFGHRPHsbpN-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2%3A2",
+  // },
   {
     image: "./images/ui-2.png", 
     title: "Website Landing Page",
